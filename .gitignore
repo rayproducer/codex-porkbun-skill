@@ -1,0 +1,4 @@
+.env.porkbun
+*.env
+.DS_Store
+

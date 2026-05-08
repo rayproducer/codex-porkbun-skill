@@ -1,0 +1,5 @@
+interface:
+  display_name: "Porkbun"
+  short_description: "Manage Porkbun domains and DNS"
+  default_prompt: "Use $porkbun to list my domains and review DNS records."
+
